@@ -1,0 +1,7 @@
+Flask
+Pandas
+Numpy
+Matplotlib
+seaborn
+memory_profiler
+scikit-learn
